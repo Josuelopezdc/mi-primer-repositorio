@@ -1,3 +1,3 @@
-# mi-primer-repositorio
-probando por primera vez github
+# my-repo-github
+practicas de proyectos simples
 ## probando-github-xd
